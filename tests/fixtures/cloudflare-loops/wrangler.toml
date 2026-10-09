@@ -1,0 +1,10 @@
+name = "loops"
+main = "src/index.ts"
+
+[[queues.producers]]
+queue = "jobs"
+binding = "JOBS"
+
+[[queues.consumers]]
+queue = "jobs"
+max_retries = 10

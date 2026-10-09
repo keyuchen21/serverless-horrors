@@ -1,0 +1,5 @@
+hit AWS-LOOP-1
+hit AWS-LOOP-1b
+missing AWS-GUARD-1
+missing AWS-GUARD-3
+exit 2

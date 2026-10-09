@@ -1,0 +1,13 @@
+hit FB-LOOP-1
+missing FB-GUARD-1
+missing FB-GUARD-2
+has no matcher
+hit X-ABUSE-2
+hit X-ABUSE-3
+hit X-SECRET-1
+hit X-SECRET-2
+has firebase-next/.env
+has AKIA**** (masked)
+absent IOSFODNN7EXAMPLE
+absent fixture-fake-value
+exit 2

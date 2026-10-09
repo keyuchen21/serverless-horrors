@@ -1,0 +1,11 @@
+service: thumbnails
+provider:
+  name: aws
+  runtime: nodejs20.x
+functions:
+  resize:
+    handler: handler.resize
+    events:
+      - s3:
+          bucket: uploads
+          event: s3:ObjectCreated:*

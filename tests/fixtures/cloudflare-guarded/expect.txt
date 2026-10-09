@@ -1,0 +1,7 @@
+hit CF-GUARD-1
+hit CF-GUARD-2
+hit CF-GUARD-3
+hit X-GUARD-1
+hit X-GUARD-2
+absent NOT FOUND
+exit 0

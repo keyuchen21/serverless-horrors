@@ -1,0 +1,8 @@
+{
+  "name": "firebase-next",
+  "dependencies": {
+    "firebase-functions": "^6.0.0",
+    "next": "^15.0.0",
+    "openai": "^5.0.0"
+  }
+}
